@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Shreyak Chakraborty
-- 👀 I’m interested in all kinds of web applications developmentin PHP,JavaScript and Python
+- 👀 I’m interested in all kinds of web applications developmentin PHP,JavaScript and Python. Also interested in Ethereum Blockchain Development
 - 🌱 I’m currently learning Advanced NodeJS and Python web frameworks(Django,Flask)
 - 📫 You can reach me at shreyak.rekshda@gmail.com
 
