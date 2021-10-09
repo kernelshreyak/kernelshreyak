@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kinds of web applications development in JavaScript,PHP and Python. Also interested in Ethereum Blockchain Development
 - 🌱 I’m currently learning Advanced NodeJS and data structures and algorithms in C++ and Python
 - 📫 You can reach me at shreyak.rekshda@gmail.com
-- My resume is available <a target="_blank" href="https://kernelshreyak.github.io/Shreyak_CV_fullstack.pdf">here</a>
+- My resume is available <a target="_blank" href="https://drive.google.com/file/d/13Cbo-I5zs9ial7gWob2pp2A05U8qSLzC/view?usp=sharing">here</a>
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
