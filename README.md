@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Shreyak Chakraborty
-- 👀 I’m interested in all kinds of web applications development in Python,JavaScript and PHP. Also interested in Ethereum Blockchain Development
+- 👀 I’m interested in all kinds of web applications development in JavaScript,PHP and Python. Also interested in Ethereum Blockchain Development
 - 🌱 I’m currently learning Advanced NodeJS and data structures and algorithms in C++ and Python
 - 📫 You can reach me at shreyak.rekshda@gmail.com
 - My resume is available <a target="_blank" href="https://kernelshreyak.github.io/Shreyak_CV_fullstack.pdf">here</a>
