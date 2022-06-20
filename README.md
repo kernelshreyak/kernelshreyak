@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m Shreyak Chakraborty
-- 👀 I’m interested in all kinds of full-stack web applications development in JavaScript,PHP and Python. Also interested in Ethereum Blockchain Development
-- 🌱 I’m currently learning JavaScript and Blockchain Technologies like Redux-Saga, Solidity, Polygon, Binance Smart Chain etc.
+- 👀 I’m interested in all kinds of full-stack software development primarily in JavaScrip and Python stacks. Also interested in Blockchain technologies and Decentralized applications
+- 🌱 I’m currently learning JavaScript and Blockchain Technologies like Redux-Saga, Ethereum compatible blockchains, Algorand, Golang etc. 
 - 📫 You can reach me at shreyak.rekshda@gmail.com
 - My resume is available <a target="_blank" href="https://drive.google.com/file/d/13Cbo-I5zs9ial7gWob2pp2A05U8qSLzC/view?usp=sharing">here</a>
 
