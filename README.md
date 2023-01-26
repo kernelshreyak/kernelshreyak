@@ -1,6 +1,5 @@
 - 👋 Hello there, I’m Shreyak Chakraborty
-- 👀 I’m interested in all kinds of full-stack software development primarily in JavaScrip and Python stacks. Also interested in Blockchain technologies and Decentralized applications
-- 🌱 I’m currently learning JavaScript and Blockchain Technologies like Redux-Saga, Ethereum compatible blockchains, Algorand, Golang etc. 
+- 👀 I’m interested in all kinds of full-stack software development primarily in JavaScript, Python and Golang stacks. Also interested in Blockchain technologies and Decentralized applications.
 - 📫 You can reach me at shreyak.rekshda@gmail.com
 - My resume is available <a target="_blank" href="https://drive.google.com/file/d/13Cbo-I5zs9ial7gWob2pp2A05U8qSLzC/view?usp=sharing">here</a>
 
@@ -11,11 +10,6 @@
 </a>
 
 ---
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kernelshreyak&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelshreyak&layout=compact" />
-</div>
 
 
 
