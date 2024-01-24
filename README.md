@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Shreyak Chakraborty
-- 👀 I’m interested in all kinds of full-stack software development primarily in JavaScript, Python and Golang stacks. Also interested in Blockchain technologies and Decentralized applications.
+- 👀 I’m interested in all kinds of innovative full-stack software development primarily in JavaScript, Python and Golang stacks. Also interested in AI & ML, Blockchain technologies and Decentralized applications. 
 - 📫 You can reach me at shreyak.rekshda@gmail.com
 - My resume is available <a target="_blank" href="https://drive.google.com/file/d/13Cbo-I5zs9ial7gWob2pp2A05U8qSLzC/view?usp=sharing">here</a>
 
