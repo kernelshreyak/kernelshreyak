@@ -5,7 +5,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kernelshreyak&column=8&no-frame=true"/>
+  <img width=800 src="[https://github-profile-trophy.vercel.app/?username=kernelshreyak&column=3&no-frame=true](https://github-profile-trophy.vercel.app/?username=kernelshreyak&column=5)https://github-profile-trophy.vercel.app/?username=kernelshreyak&column=5"/>
 </a>
 
 --
